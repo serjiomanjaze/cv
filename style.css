@@ -1,0 +1,82 @@
+/* Navbar */
+.navbar {
+    background-color: #333;
+    padding: 10px;
+  }
+  
+  .navbar-brand {
+    color: #fff;
+    font-size: 24px;
+  }
+  
+  .navbar-nav .nav-link {
+    color: #fff;
+    margin-left: 10px;
+  }
+  
+  /* Sections */
+  section {
+    padding: 50px 0;
+  }
+  
+  section h2 {
+    margin-bottom: 30px;
+  }
+  
+  /* Skills Section */
+  .skills-list ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .skills-list li {
+    display: inline-block;
+    margin-right: 10px;
+    padding: 5px 10px;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+  }
+  
+  /* Projects Section */
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  /* Contact Section */
+  #contact-form .form-group {
+    margin-bottom: 20px;
+  }
+  
+  #contact-form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  #contact-form input,
+  #contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  #contact-form button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+
+  .profile-picture img {
+    border-radius: 50%;
+  }
+  
+  
